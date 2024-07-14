@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Javascript and Frontend tools**
 
-- 📫 How to reach me **christkevin50@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
